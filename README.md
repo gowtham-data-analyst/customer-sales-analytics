@@ -82,18 +82,11 @@ This dashboard provides a complete sales analytics solution with insights into:
 
 ---
 
-## Dashboard Preview
-
-![Dashboard Preview](dashboard-preview.png)
-
----
-
 ## Project Files
 
 ```text
 sales-analytics-dashboard/
 │
 ├── README.md
-├── sales-analytics-dashboard.pbix
 ├── dashboard-preview.png
 └── dataset.xlsx
